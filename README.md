@@ -46,3 +46,5 @@ Durante la configuración inicial del repositorio se ha decidido proteger e igno
 - `.venv/` y `env/` para no subir entornos virtuales locales al repositorio.
 - `*.sqlite3` para impedir la subida de posibles bases de datos locales o temporales.
 - `secrets.env` para evitar fugas de credenciales o claves sensibles utilizadas en pruebas de seguridad.
+
+## Firma digital GPG configurada
