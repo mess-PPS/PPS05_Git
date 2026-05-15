@@ -31,7 +31,7 @@ def cadena_mas_larga(lista):
     palabras_largas.sort(key=normalizar)
     return palabras_largas[0]
 
-
+# Función principal del programa
 def main():
     print("Programa que devuelve la cadena más larga.")
     print("Introduce 5 palabras:")
